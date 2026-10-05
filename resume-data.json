@@ -1,0 +1,52 @@
+{
+  "personalInfo": {
+    "firstName": "Murali",
+    "lastName": "R",
+    "profession": "BCA",
+    "city": "Trichy",
+    "state": "Tamil Nadu",
+    "pincode": "621006",
+    "phoneNumber": "9514773633",
+    "emailId": "murali@gmail.com"
+  },
+  "careerObjective": "Results-driven Web Developer creating cutting-edge websites and web applications. Expertise in HTML, CSS, JavaScript, AngularJS, and other web technologies.",
+  "education": {
+    "collegeName": "Urumu Dhanalakshmi College",
+    "collegeLocation": "Tiruchirappalli, Tamil Nadu 620019",
+    "degree": "Bachelor of Computer Application",
+    "graduationSt": "2018",
+    "graduationEnd": "2021"
+  },
+  "workExperience": [
+    {
+      "jobTitle": "Web App Developer",
+      "companyName": "Zoho",
+      "workCountry": "India",
+      "workState": "Tamil Nadu",
+      "workCity": "Trichy",
+      "workStart": "2021",
+      "workEnd": "2023"
+    },
+    {
+      "jobTitle": "Frontend Developer",
+      "companyName": "Tech Solutions",
+      "workCountry": "India",
+      "workState": "Tamil Nadu",
+      "workCity": "Chennai",
+      "workStart": "2021",
+      "workEnd": "2023"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "AngularJS",
+    "PHP",
+    "SQL"
+  ],
+  "certification": {
+    "certificationName": "Web Development Certification",
+    "certificationAbout": "2022"
+  }
+}
